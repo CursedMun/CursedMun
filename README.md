@@ -27,7 +27,9 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-
+```text
+C#           2 mins          ████████████████████████▒   96.71 % 
+```
 <!--END_SECTION:waka-->
 📈 My GitHub Stats
 
