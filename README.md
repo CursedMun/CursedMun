@@ -28,9 +28,7 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 21 mins    ██████████████████▓░░░░░░   74.82 % 
-JSON         25 mins         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 📈 My GitHub Stats
