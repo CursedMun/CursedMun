@@ -10,10 +10,6 @@
 
 <br />
 
-- 👀 I’m interested in C#,.NET
-- 🌱 I’m currently learning ASP.NET
-- 📫 How to reach me Frosty.HyperX@gmail.com
-
 
 **Languages and Tools:**  
 
