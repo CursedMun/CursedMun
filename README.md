@@ -22,9 +22,11 @@ Portfolio: https://www.cursedmun.com
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 📈 My GitHub Stats
 
