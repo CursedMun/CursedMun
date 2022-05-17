@@ -9,7 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=CursedMun.CursedMun)
 
 <br />
-Portfolio: https://portfolio-qkyc319kk-cursedmun.vercel.app/
+Portfolio: https://www.cursedmun.com
 
 **Languages and Tools:**  
 
